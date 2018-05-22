@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.49",
+        "league/csv": "^9.1",
+        "stilliard/csvparser": "^1.1"
+    }
+}
